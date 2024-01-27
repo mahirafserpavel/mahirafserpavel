@@ -2,7 +2,7 @@
 - 👀 Professionally, I'm exploring diverse fields, forging meaningful connections, and staying abreast of emerging trends.
 - 🌱 Currently immersing myself in artificial intelligence, mastering programming languages, and honing data analysis skills.
 - 💞️ Eager for collaborations in innovative tech, data science, or any growth-centric initiative.
-- 📫 For professional inquiries, DM me mahir.pavel@gmail.com or connect on LinkedIn, Facebook.
+- 📫 For professional inquiries, DM me mahir.pavel@gmail.com or connect on LinkedIn[https://www.linkedin.com/in/mahirafserpavel/], Facebook[https://www.facebook.com/mahir.afser.19115].
 - ⚡ Fun fact: A photography enthusiast capturing moments with unique stories.
 - 👀 Specifically intrigued by AI, including ML, DL, NLP, and robotics.
 - 🌱 Actively seeking AI, ML, DL, NLP, or robotics project collaborations to contribute skills and expertise.
